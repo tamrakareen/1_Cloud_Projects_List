@@ -10,39 +10,34 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
 
-[✍️ Introduce yourself]
+Tamra's Cloud Journey
 
-[✍️ Tell us why you started this challenge]
+Hey! I'm Tamra and I love working in the cloud. I think the structure of this challenge is great. I hope this gives you a look into what I can do.  I love working with clients and collaborating in teams. I love fast pased and customer-centric work environments! Bring on the pot of coffee!
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the end of this challenge, I hope to have a great list of cloud projects that I can easily do and I'll probably start it again!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [LinkedIn](https://www.linkedin.com/in/tamrasherwood)
 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 2 > [Hosting a Static Website](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Launch a Linux Virtual Machine](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Launch a Wordpress Website](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Create and Connect MySQL](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Run Code on AWS Lambda](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [Launch and Connect AWS EC2 MAC](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Launch and Connect AWS EC2 Windows](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [Remotely Run Commands on AWS EC2](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Create a CD Pipeline](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 11 > [Migrate a GIT Repository to AWS](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Set Up a Jenkins Build Server](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [Locally Debug a Serverless App](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
