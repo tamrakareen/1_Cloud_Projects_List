@@ -14,7 +14,7 @@
 
 Tamra's Cloud Journey
 
-Hey! I'm Tamra and I love working in the cloud. I think the structure of this challenge is great. I hope this gives you a look into what I can do.  I love working with clients and collaborating in teams. I love fast pased and customer-centric work environments! Bring on the pot of coffee!
+Hey! I'm Tamra and I love working in the cloud. I think the structure of this challenge is great. I hope this gives you a look into what I can do.  I love working with clients and collaborating in teams. I love fast-paced and customer-centric work environments! Bring on the pot of coffee!
 
 By the end of this challenge, I hope to have a great list of cloud projects that I can easily do and I'll probably start it again!
 
