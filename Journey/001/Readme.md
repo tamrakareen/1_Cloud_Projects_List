@@ -1,31 +1,35 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![cloud image](https://jooinn.com/images/clouds-192.jpg)
 
-# New post title here
+# Host a Static Website using AWS Amplify in the AWS Console
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Static websites deliver HTML, JavaScript, images, video and other files to your website visitors. Static websites are very low cost, provide high-levels of reliability, require almost no IT administration, and scale to handle enterprise-level traffic with no additional work.
+
+AWS Amplify provides fully managed hosting for static websites and web apps. Amplify’s hosting solution leverages Amazon CloudFront and Amazon S3 to deliver your site assets via the AWS content delivery network (CDN).
+
+Amplify offers a Git-based workflow with continuous deployment, allowing you to automatically deploy updates to your site on every code commit.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
+You'll need to set up the following for this project:
+- AWS account 
+- Git provider (like AWS or GitHub)
+- A use case or static website
+ 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+![cloud image](https://i.etsystatic.com/isbl/e5452a/52081027/isbl_1680x420.52081027_ettxatxm.jpg?version=0)
+- The website being used for this project is for Forward Focus, an etsy shop selling digital motivational printables.  
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+### Step 1 — Create and connect repository
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
+To being this tutorial, you'll need to create and initialize a respository. Let's begin:
+- Create repository
+- Initialize git and push the app to the new GitHub repo
+- Log into AWS Amplify Console and Get Started under Deploy
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
