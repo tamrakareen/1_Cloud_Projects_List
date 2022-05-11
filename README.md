@@ -2,16 +2,6 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-
-
-
 Tamra's Cloud Journey
 
 Hey! I'm Tamra and I love working in the cloud. I think the structure of this challenge is great. I hope this gives you a look into what I can do.  I love working with clients and collaborating in teams. I love fast-paced and customer-centric work environments! Bring on the pot of coffee!
@@ -38,8 +28,8 @@ By the end of this challenge, I hope to have a great list of cloud projects that
 - [ ] ☁️ 11 > [Migrate a GIT Repository to AWS](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Set Up a Jenkins Build Server](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [Locally Debug a Serverless App](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [ ] ☁️ 14 > [Deploying a VM in AWS using Terraform Workflow](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [Using Terraform Provisioners to set up an Apache web service in AWS](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
