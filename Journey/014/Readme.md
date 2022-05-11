@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://cloudysave-new.b-cdn.net/wp-content/uploads/2020/07/Terraform-AWS-RDS-Terraform-Logo.jpg)
 
 Deploying a VM in AWS using Terraform Workflow
 
@@ -9,16 +9,11 @@ I completed an A Cloud Guru certification in foundations of Terraform. It's time
 
 ## Prerequisite
 
-A Cloud Guru Account OR AWS account
-Terraform 
+A Cloud Guru Account OR AWS account AND Terraform 
 
 ## Cloud Research
 
 When I started this project, I wanted to install Terraform and use my own AWS account, but Terraform was not installing correctly on my windows laptop.  I used powershell to install Chocolatey and install terraform that way, but still no luck.  Thankfully I have access to A Cloud Guru's playgound and can use their instant terminals. I have to admit I got a little carried away installing Chocolatey software packages. 
-
-## Try yourself
-
-If you have an AWS account and can download Terraform, you can do this project without A Cloud Guru. 
 
 ### Step 1 — Understanding The Core Terraform Workflow
 
@@ -32,7 +27,7 @@ Apply- Deploy infrastructure
 
 ### Step 2 — (Write) Create a Directory and Write Your Terraform Code 
 
-![Screenshot](file:///C:/Users/tamra/Pictures/Screenshots/Screenshot%20(20).png)
+![Screenshot (https://www.devopsschool.com/blog/wp-content/uploads/2019/10/Terraform-Basics-Workflow.png)
 
 ### Step 3 — Plug the AMI and SUBNET ID Values Into Your Code
 
