@@ -1,52 +1,56 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+Deploying a VM in AWS using Terraform Workflow
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I completed an A Cloud Guru certification in foundations of Terraform. It's time to get some projects in Terraform done! I started with a basic practicioner level project creating an AWS EC2 from the Terraform terminal.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+A Cloud Guru Account OR AWS account
+Terraform 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+When I started this project, I wanted to install Terraform and use my own AWS account, but Terraform was not installing correctly on my windows laptop.  I used powershell to install Chocolatey and install terraform that way, but still no luck.  Thankfully I have access to A Cloud Guru's playgound and can use their instant terminals. I have to admit I got a little carried away installing Chocolatey software packages. 
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+If you have an AWS account and can download Terraform, you can do this project without A Cloud Guru. 
 
-### Step 1 — Summary of Step
+### Step 1 — Understanding The Core Terraform Workflow
+
+![Screenshot](https://www.devopsschool.com/blog/wp-content/uploads/2019/10/Terraform-Basics-Workflow.png)
+
+Write, Plan, Apply.
+
+Write- Create your Terraform code
+Plan- Add and review changes to code
+Apply- Deploy infrastructure
+
+### Step 2 — (Write) Create a Directory and Write Your Terraform Code 
+
+![Screenshot](file:///C:/Users/tamra/Pictures/Screenshots/Screenshot%20(20).png)
+
+### Step 3 — Plug the AMI and SUBNET ID Values Into Your Code
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+### Step 4 — (Plan) Initialize and Review Your Terraform Code 
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
+### Step 5 — (Apply) Deploy Your Terraform Code, Verify Resources, and Destroy
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ I liked this project, it was simple and jogged my memory of learning Terraform. This would be a really fast process if I had to spin up a bunch of vm's.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Next I'd like to build and test a Terraform module
 
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
