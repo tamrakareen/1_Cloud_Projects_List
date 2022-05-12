@@ -1,20 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fluo3ms4tlu-flywheel.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F06%2FCloud-Banner_AWS-Bnner-1.png&f=1&nofb=1)
 
-# New post title here
+# Connecting to AWS console through Window's Powershell
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+There are definitely terminals I like more than windows powershell, but this is an example of how you would connect to your AWS account so you can work faster.
+I'll explain how to specify which credentials and AWS Region the Tools for Windows PowerShell should use when interacting with AWS. You'll need a windows computer or VM and an AWS account.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+The use case is my account! I'll spin up some AWS compute services!
 
 ## Cloud Research
 
