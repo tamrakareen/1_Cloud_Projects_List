@@ -30,7 +30,7 @@ By the end of this challenge, I hope to have a great list of cloud projects that
 - [ ] ☁️ 13 > [Locally Debug a Serverless App](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Deploying a VM in AWS using Terraform Workflow](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Using Terraform Provisioners to set up an Apache web service in AWS](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
+- [ ] ☁️ 16 > [Connecting to AWS tools through Windows Powershell](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
