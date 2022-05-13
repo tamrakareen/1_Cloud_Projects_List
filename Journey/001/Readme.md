@@ -15,31 +15,35 @@ Amplify offers a Git-based workflow with continuous deployment, allowing you to 
 
 You'll need to set up the following for this project:
 - AWS account 
-- Git provider (like AWS or GitHub)
-- A use case or static website
+- Git provider 
+- Static website
  
 ## Use Case
 
 ![cloud image](https://i.etsystatic.com/isbl/e5452a/52081027/isbl_1680x420.52081027_ettxatxm.jpg?version=0)
 - The website being used for this project is for Forward Focus, an etsy shop selling digital motivational printables.  
 
+### Step 1 — Create and Connect Repository
 
-### Step 1 — Create and connect repository
+I used GitHub to create a repository.
 
-To being this tutorial, you'll need to create and initialize a respository. Let's begin:
-- Create repository
-- Initialize git and push the app to the new GitHub repo
-- Log into AWS Amplify Console and Get Started under Deploy
+![Screenshot](https://tksportforlio.s3.us-west-2.amazonaws.com/github+repo.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
+I forgot to click on add a Read Me file, so I created one on Git Bash.
 
-### Step 1 — Summary of Step
+![Screenshot](s3://tksportforlio/git push readme.png)
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](s3://tksportforlio/git push readme 2.png)
 
-### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+
+### Step 2 — Confirm and Build Settings
+
+![Screenshot]()
+
+### Step 3 — Save and Deploy
+
+![Screenshot]()
 
 ## ☁️ Cloud Outcome
 
@@ -47,7 +51,7 @@ To being this tutorial, you'll need to create and initialize a respository. Let'
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+My next Amplify project will be deploying a web application.
 
 ## Social Proof
 
