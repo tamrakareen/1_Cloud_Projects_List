@@ -4,13 +4,11 @@
 
 Tamra's Cloud Journey
 
-Hey! I'm Tamra and I love working in the cloud. I think the structure of this challenge is great. I hope this gives you a look into what I can do.  I love working with clients and collaborating in teams. I love fast-paced and customer-centric work environments! Bring on the pot of coffee!
-
-By the end of this challenge, I hope to have a great list of cloud projects that I can easily do and I'll probably start it again!
+Hi there, welcome to my GitHub cloud projects. I'm Tamra and I'm a Devops Engineer based in Denver. I hope this gives you a look into what I can do. I intend to continue this challenge as I practice and collaborate. My goal is to certify as an AWS Solutions Architect by summer 2023. Bring on the pot of coffee!
 
 - [LinkedIn](https://www.linkedin.com/in/tamrasherwood)
 
-## Stepping out the door
+## AWS
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Hosting a Static Website](Journey/002/Readme.md)
@@ -23,7 +21,7 @@ By the end of this challenge, I hope to have a great list of cloud projects that
 - [ ] ☁️ 9 > [Remotely Run Commands on AWS EC2](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [Create a CD Pipeline](Journey/010/Readme.md)
 
-## Walking down the road
+## Devops
 
 - [ ] ☁️ 11 > [Migrate a GIT Repository to AWS](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Set Up a Jenkins Build Server](Journey/012/Readme.md)
@@ -62,6 +60,7 @@ By the end of this challenge, I hope to have a great list of cloud projects that
 - [ ] ☁️ 42 > [Scaling Pods in Kubernetes](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [Creating Helm Charts](Journey/043/Readme.md)
 
+## Terraform Projects
 
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)
