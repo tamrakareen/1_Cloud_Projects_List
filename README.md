@@ -4,11 +4,11 @@
 
 Tamra's Cloud Journey
 
-Hi there, welcome to my GitHub cloud projects. I'm Tamra and I'm a Devops Engineer based in Denver. I hope this gives you a look into what I can do. I intend to continue this challenge as I practice and collaborate. My goal is to certify as an AWS Solutions Architect by summer 2023. Bring on the pot of coffee!
+Hi there, welcome to my GitHub cloud projects. I'm Tamra and I'm a Devops Engineer based in Denver. I hope this gives you a look into what I can do. I have been working in this challenge around my fulltime job and family, so if you don't see documentation yet, it's coming!! I intend to continue this challenge as I practice and collaborate. My goal is to certify as an AWS Solutions Architect-Associate by summer 2022 and be ready for AWS Solutions Architect and AWS DevOps Professional by summer 2023, but we all know it's not all about the certificates :) Bring on the pot of coffee!
 
 - [LinkedIn](https://www.linkedin.com/in/tamrasherwood)
 
-## AWS
+## AWS- more starting on project 71
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Hosting a Static Website](Journey/002/Readme.md)
@@ -62,41 +62,41 @@ Hi there, welcome to my GitHub cloud projects. I'm Tamra and I'm a Devops Engine
 
 ## Terraform Projects
 
-- [ ] ☁️ 44 > [](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
-- [ ] ☁️ 46 > [](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [](Journey/050/Readme.md)
+- [ ] ☁️ 44 > [Deploying a VM in AWS Using the Terraform Workflow](Journey/044/Readme.md)
+- [ ] ☁️ 45 > [Using Terraform Provisioners to Set Up an Apache Web Server on AWS ](Journey/045/Readme.md)
+- [ ] ☁️ 46 > [Using Terraform Dynamic Blocks and Built-in Fuctions to Deploy AWS](Journey/046/Readme.md)
+- [ ] ☁️ 47 > [Terraform CLI Commands and Practice](Journey/047/Readme.md)
+- [ ] ☁️ 48 > [Making Changes to AWS Infrastructure Using Terraform](Journey/048/Readme.md)
+- [ ] ☁️ 49 > [Creating Route 53 Records to Route Traffic to an ALB Using Terraform](Journey/049/Readme.md)
+- [ ] ☁️ 50 > [Migrating Terraform State to Terraform Cloud](Journey/050/Readme.md)
 
-## Winding through the canyons
+## More Terraform
 
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
-- [ ] ☁️ 54 > [](Journey/054/Readme.md)
-- [ ] ☁️ 55 > [](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
+- [ ] ☁️ 51 > [Using Terraform to Auto Scale and Load Balance Compute Engine Instances in GCP](Journey/051/Readme.md)
+- [ ] ☁️ 52 > [Using Terraform to Create a New VPC and Public Subnet in GCP](Journey/052/Readme.md)
+- [ ] ☁️ 53 > [Troubleshooting a Terraform Locked State File](Journey/053/Readme.md)
+- [ ] ☁️ 54 > [Configure a Remote Backend in Terraform](Journey/054/Readme.md)
+- [ ] ☁️ 55 > [Deploy a My SQL Database with Terraform](Journey/055/Readme.md)
+- [ ] ☁️ 56 > [Building and Testing a Basic Terraform Module](Journey/056/Readme.md)
+- [ ] ☁️ 57 > [Troubleshooting a Terraform State Sync Issue](Journey/057/Readme.md)
+- [ ] ☁️ 58 > [Create a Custom Terraform Module](Journey/058/Readme.md)
+- [ ] ☁️ 59 > [Creating a Multi-Region Network with VPC Peering Using SGs, IGW, and RTs](Journey/059/Readme.md)
+- [ ] ☁️ 60 > [Deploy a Web Application with Terraform](Journey/060/Readme.md)
 
-## Stumbling through the caves
+## More AWS
 
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
-- [ ] ☁️ 63 > [](Journey/063/Readme.md)
-- [ ] ☁️ 64 > [](Journey/064/Readme.md)
-- [ ] ☁️ 65 > [](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
-- [ ] ☁️ 67 > [](Journey/067/Readme.md)
-- [ ] ☁️ 68 > [](Journey/068/Readme.md)
+- [ ] ☁️ 61 > [Creating an EC2 Instance with Lambda in AWS](Journey/061/Readme.md)
+- [ ] ☁️ 62 > [Setting up an S3 Static Website Using AWS CLI](Journey/062/Readme.md)
+- [ ] ☁️ 63 > [Creating a Simple AWS Lambda Function](Journey/063/Readme.md)
+- [ ] ☁️ 64 > [Building a Three-Tier Network VPC from Scratch in AWS](Journey/064/Readme.md)
+- [ ] ☁️ 65 > [Resizing Root AWS EBS Volumes to Increase Performance](Journey/065/Readme.md)
+- [ ] ☁️ 66 > [Deploying a Web Server with CloudFormation Designer](Journey/066/Readme.md)
+- [ ] ☁️ 67 > [Limiting Privileged User Access by Setting Permissions Boundaries in AWS IAM](Journey/067/Readme.md)
+- [ ] ☁️ 68 > [AWS Security ](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
-## Resting at the Lagoon
+## What's Next?
 
 - [ ] ☁️ 71 > [](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [](Journey/072/Readme.md)
@@ -109,7 +109,7 @@ Hi there, welcome to my GitHub cloud projects. I'm Tamra and I'm a Devops Engine
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
-## Up into the mountains
+## What's Next?
 
 - [ ] ☁️ 81 > [](Journey/081/Readme.md)
 - [ ] ☁️ 82 > [](Journey/082/Readme.md)
