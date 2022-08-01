@@ -6,7 +6,7 @@ Tamra's Cloud Journey
 
 Hi there, welcome to my GitHub cloud projects. I'm Tamra and I'm a Devops Engineer based in Denver. I hope this gives you a look into what I can do. I have been working in this challenge around my fulltime job and family, so if you don't see documentation yet, it's coming!! I intend to continue this challenge as I practice and collaborate. My goal is to certify as an AWS Solutions Architect-Associate by summer 2022 and be ready for AWS Solutions Architect and AWS DevOps Professional by summer 2023, but we all know it's not all about the certificates :) Bring on the pot of coffee!
 
-- [LinkedIn](https://www.linkedin.com/in/tamrasherwood)
+- [LinkedIn](https://www.linkedin.com/in/tamra-sherwood)
 
 ## AWS- more starting on project 71
 
